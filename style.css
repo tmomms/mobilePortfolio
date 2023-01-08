@@ -1,0 +1,37 @@
+.container{
+    width: 100%;
+}
+
+.img-icon{
+    fill: antiquewhite;
+    color: white;
+    padding-top: 2px;
+    width: 35px;
+    height: 35px;
+}
+
+.svg-icon{
+    fill: orange;
+}
+
+.svg-icon:hover{
+    fill: white;
+}
+
+.svg-portfolio{
+    fill: darksalmon;
+}
+
+.svg-portfolio:hover{
+    fill: white;
+}
+
+.svg-js{
+    fill: darkslategray;
+}
+
+.svg-js:hover{
+    fill: white;
+}
+
+
