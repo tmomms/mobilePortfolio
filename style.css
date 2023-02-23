@@ -1,7 +1,38 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+}
+.header{
+    margin: 0;
+    margin-top: -20px;
+    width: 100%;
+    min-height: 500px;
+    border-bottom-right-radius: 20px ;
+    background-image: url(./img/side-wave_background.jpg);
+    background-repeat: no-repeat;
+    color: white;
+}
 .container{
+    margin: 0;
     width: 100%;
 }
-
+.blob{
+    position: absolute;
+    top: 45%;
+    left: 10%;
+    background-color: rgb(170, 0, 0);
+    width: 50px;
+    height: 50px;
+    border-radius: 22% 78% 65% 35% / 30% 62% 38% 70%;
+}
+.iphone{
+    position: absolute;
+    top: 40%;
+    left: 155px;
+    width: 50px;
+    height: auto;
+    height: 100%;
+}
 .img-icon{
     fill: antiquewhite;
     color: white;
